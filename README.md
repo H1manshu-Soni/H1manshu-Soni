@@ -1,4 +1,4 @@
-<h1 align="center" Hola👋, I'm Himanshu!!</h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Himanshu!!] 
 <h3 align="center">🧑🏻‍🎓Student at Carmel Convent Sr. Sec. School</h3>
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1manshu-soni&theme=onedark" alt="h1manshu-soni" /></a> </p>
